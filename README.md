@@ -34,7 +34,7 @@ With Nodemon:
 No current testing
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
+
 
 ## Questions
 ✉️ Contact me with any questions: [email](mailto:pilotjake14@gmail.com) , [GitHub](https://github.com/iamjakes)<br />
